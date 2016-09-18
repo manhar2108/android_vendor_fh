@@ -126,8 +126,6 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     LiveLockScreenService \
     WeatherProvider \
-    DataUsageProvider \
-    WallpaperPicker
 
 # Exchange support
 PRODUCT_PACKAGES += \
